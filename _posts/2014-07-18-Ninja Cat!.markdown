@@ -1,9 +1,11 @@
 ---
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: safe.png
+modal-id: 1
+date: 2014-07-18
+img: cabin.png
 alt: image-alt
+video-url: https://www.youtube.com/embed/PAYa0NfR7uw
+shop-url: https://www.assetstore.unity3d.com/en/#!/content/69048
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

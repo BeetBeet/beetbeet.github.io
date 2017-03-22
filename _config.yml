@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: BeetBeet
+email: hellobeetbeet@gmail.com
 url: https://beetbeet.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+skills: "GAME ASSETS FOR HOT DEVS"
+meta_author: Beet Beet
 
 # Google webmaster tools
 google_verify:
@@ -24,10 +24,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
+  primary: e74c3c #tlo headera
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  secondary: 3f202c #header
+  secondary-dark: 3f202c #footer
 
 # Footer settings
 footer:
